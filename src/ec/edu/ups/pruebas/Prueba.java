@@ -26,7 +26,7 @@ public class Prueba {
 
         int cod = facebook.getCodigo();
         System.out.println("codigo: " + cod);
-
+        System.out.println("Prueba Colaborador Piña");
         String nom = facebook.getNombre();
         System.out.println("nombre: " + nom);
 
